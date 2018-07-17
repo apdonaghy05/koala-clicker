@@ -24,6 +24,7 @@ let counter = 0
 console.log("counter: ", counter)
 
 function clickCounter(){
+
 counter++
 console.log("counter", counter)
 
